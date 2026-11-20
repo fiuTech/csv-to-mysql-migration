@@ -26,11 +26,11 @@ Python 3, pandas, mysql-connector-python, python-dotenv, MySQL.
 
 ### Migration Report
 
-![Migration report](screenshots/migration-report.png)
+![Migration report](screenshots/migration-report.png?v=2)
 
 ### Customers Table
 
-![Customers table](screenshots/customers-table.png)
+![Customers table](screenshots/customers-table.png?v=2)
 
 ## Assumptions
 - Dates written as `dd/mm/yyyy` are read day-first.
