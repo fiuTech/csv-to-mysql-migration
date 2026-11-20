@@ -1,0 +1,13 @@
+customer_id,full_name,email,signup_date,country,total_spent
+1,  ana  garcia ,ANA.GARCIA@example.com,2024-01-15,Colombia,"$1,250.00"
+2,LUIS PEREZ,luis.perez@example.com,15/02/2024,colombia,980
+3,Maria Lopez,maria.lopez@example.com,"Mar 5, 2024",CO,"$45.50"
+4,Carlos Ruiz,carlos.ruiz@example,2024-03-20,Spain,300
+5,  ,empty.name@example.com,2024-04-01,Spain,120
+6,Ana Garcia,ana.garcia@example.com,2024-05-10,Colombia,"$300.00"
+7,Sofia Marin,sofia.marin@example.com,not a date,ES,210
+8,Diego Torres,diego.torres@example.com,2024-06-02,Mexico,N/A
+9,laura vega,LAURA.VEGA@EXAMPLE.COM,02/07/2024,mexico,"$1,000"
+10,Pedro Gil,pedro.gil@example.com,2024-07-19,MX,75.25
+11,Elena Rios,elena.rios@example.com,2024-08-30,Colombia,640
+12,Jorge Mora,,2024-09-12,Spain,90
