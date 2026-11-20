@@ -23,7 +23,14 @@ Python 3, pandas, mysql-connector-python, python-dotenv, MySQL.
 5. Check the data: `SELECT * FROM customers;`
 
 ## Example output
-_Add a screenshot of the terminal report and of the `customers` table here after running the script._
+
+### Migration Report
+
+![Migration report](screenshots/migration-report.png)
+
+### Customers Table
+
+![Customers table](screenshots/customers-table.png)
 
 ## Assumptions
 - Dates written as `dd/mm/yyyy` are read day-first.
